@@ -1,0 +1,14 @@
+{
+    "name": "Party Workflow",
+    "description": "It's a party in here workflow.",
+    "iconName": "java_test",
+    "categories": [
+        "testing",
+        "Java"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
