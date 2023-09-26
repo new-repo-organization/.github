@@ -1,0 +1,9 @@
+{
+    "name": "Re-Usable Java Workflow",
+    "description": "It's reusable workflow.",
+    "iconName": "java_test",
+    "categories": [
+        "testing",
+        "reusable"
+    ]
+}
